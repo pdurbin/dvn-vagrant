@@ -8,7 +8,7 @@
 
 This git repo allows you spin up your own DVN installation on a virtual machine (VM) on your computer in roughly half an hour with a single command: `vagrant up`
 
-The VM will be running CentOS 6 and the following software will be installed:
+The VM will be running CentOS 6 and the following software:
 
 - DVN 3.2
 - Glassfish 3.1.2.2
@@ -21,7 +21,9 @@ Before you can use this git repo, you need to install VirtualBox from https://vi
 
 ## Using this git repo to create your own DVN VM
 
-From a terminal, type the following commands but please not that `vagrant up` will take a while, especially the first time you run it.
+From a terminal, type the following commands.
+
+(Please note that `vagrant up` will take a while, especially the first time you run it.)
 
     git clone https://github.com/pdurbin/dvn-vagrant.git
     cd dvn-vagrant
