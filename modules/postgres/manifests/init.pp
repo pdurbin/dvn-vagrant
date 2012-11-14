@@ -17,6 +17,7 @@ class postgres {
   exec { "install_glassfish":
     command => "/bin/bash /root/glassfish-install.sh",
     onlyif  => "/usr/bin/test ! -e /opt/glassfish",
+    timeout => 0,
   }
 
 }
