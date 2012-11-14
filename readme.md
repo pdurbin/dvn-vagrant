@@ -29,7 +29,7 @@ From a terminal, type the following commands but please not that `vagrant up` wi
 
 Assuming `vagrant up` completes successfully, you should be able to log into your new DVN installation with the following credentials:
 
-- http://localhost:8081/dvn
+- <http://localhost:8081/dvn>
 - username: networkAdmin
 - password: networkAdmin
 
