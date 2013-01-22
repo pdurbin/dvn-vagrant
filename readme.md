@@ -1,3 +1,7 @@
+# WARNING
+
+## This is a demo... a proof of concept... please go ahead try it and if you have any questions or feedback please post to https://groups.google.com/group/dataverse-community but the official DVN installation process is described in the Installer's Guide at http://guides.thedata.org
+
 # The Dataverse Network (DVN) on Vagrant
 
 "The Dataverse Network is an open source application to publish, share, reference, extract and analyze research data." -- http://thedata.org
