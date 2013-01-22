@@ -10,7 +10,7 @@ This git repo allows you spin up your own DVN installation on a virtual machine 
 
 The VM will be running CentOS 6 and the following software:
 
-- DVN 3.2
+- DVN 3.3
 - Glassfish 3.1.2.2
 - PostgreSQL 8.4.13
 - OpenJDK 1.6.0
